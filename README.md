@@ -56,10 +56,12 @@ The navigation diagram illustrates the interaction between different views of th
 ## Skeleton
 
 Wireframes
+
 Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13303002/RealTimeGym_App_2.pdf)
 
 ## Surface
 
-Mockups:
+Mockups
+
 Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13303032/RealTimeGym.App_compressed.pdf)
 
