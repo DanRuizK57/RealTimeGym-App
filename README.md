@@ -23,57 +23,6 @@ At the moment, people want to improve their physical condition, but many of them
 ## Strategy
 The first step taken by the team is to formulate the strategy for the Real Time App. A "Value Proposition Canvas" is employed to assess Real Time Gym App in relation to the customer's needs and the potential solution.
 
-![Value Proposition Canvas - Real Time Gym App.png](https://hackmd.io/_uploads/Hy4-4sF7T.png)
-
-This analytical process has assisted us in comprehending how our application aligns with the needs and desires of our target market, as outlined in our "Value Proposition Canvas." Key elements highlighted include real-time exercise visualization, the creation of goal-based custom routines, and training days. Additionally, we've identified differentiating features such as real-time exercise playback, which add extra value to our offering. Our application addresses common user concerns by providing personalized workout routines and real-time guidance to enhance their physical condition. The anticipated benefits encompass the ability to observe real-time results and maintain effective progress tracking, while the problems we aim to mitigate involve the lack of guidance when commencing an exercise routine, uncertainty regarding exercise selection, and the absence of progress monitoring.
-
-## Scope
-
-After defining a product strategy, it is essential to establish a scope. At this stage, we create a profile of our ideal customer and visualize how our product will work for them in the context of our application.
-
-![Ux Person 1 - Real Time Gym App.png](https://hackmd.io/_uploads/rJcfwiYQp.png)
-
-![Ux Person 2 - Real Time Gym App.png](https://hackmd.io/_uploads/SJZQPotQ6.png)
-
-![Ux Person 3 - Real Time Gym App.png](https://hackmd.io/_uploads/SkrXvsFXp.png)
-
-In the context of our Real Time Gym project, based on the UX Personas we've established, we develop the customer journey map as a representation of the anticipated interactions and experiences that users will go through while using our application. This map provides valuable insights into the user's path and helps us better understand their journey within the app.
-
-
-
-
-
-
-## Structure
-
-## Skeleton
-
-## Surface
-# RealTimeGym-App
-User experience design process for RealTimeGym App - An app for real-time exercise guidance.
-
-## Index
-- Introduction
-- Team members
-- Strategy
-- Scope
-- Structure
-- Skeleton
-- Surface
-
-## Introduction
-At the moment, people want to improve their physical condition, but many of them don't know where to start. As a solution to this problem, a mobile exercise app will be developed, with the unique feature of real-time workouts. This provides users with guidance for performing exercises and even creating custom routines based on their goals. In this stage of the project, we will provide the user interface aspects and its elements: the strategy, scope, structure, skeleton, and surface.
-
-## Team members
-- Gustavo Díaz - Project manager
-- Roberto Illesca - Analyst
-- Javier Ortega - Designer
-- Daniel Ruiz - Analyst
-- Claudio Sáez - Designer
-
-## Strategy
-The first step taken by the team is to formulate the strategy for the Real Time App. A "Value Proposition Canvas" is employed to assess Real Time Gym App in relation to the customer's needs and the potential solution.
-
 ![Value Proposition Canvas - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/f755e6d4-6df2-4092-aa5d-8e21813c069e)
 
 This analytical process has assisted us in comprehending how our application aligns with the needs and desires of our target market, as outlined in our "Value Proposition Canvas." Key elements highlighted include real-time exercise visualization, the creation of goal-based custom routines, and training days. Additionally, we've identified differentiating features such as real-time exercise playback, which add extra value to our offering. Our application addresses common user concerns by providing personalized workout routines and real-time guidance to enhance their physical condition. The anticipated benefits encompass the ability to observe real-time results and maintain effective progress tracking, while the problems we aim to mitigate involve the lack of guidance when commencing an exercise routine, uncertainty regarding exercise selection, and the absence of progress monitoring.
