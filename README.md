@@ -45,7 +45,7 @@ To create a Real Time Gym application that effectively fulfills user expectation
 
 Through an in-depth study of competing gym and fitness applications, we can learn from their past mistakes and ensure we don't repeat them in our Real Time Gym app. Simultaneously, we can identify successful features and functionalities that we can adopt and implement in our solution, elevating the overall user experience.
 
-![BenchMark Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/4f7bac98-b207-4290-9325-f6aa8b963d83)
+![Uploading BenchMark Real Time Gym App (2).png…]()
 
 ## Structure
 
