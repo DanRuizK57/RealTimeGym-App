@@ -49,6 +49,7 @@ Through an in-depth study of competing gym and fitness applications, we can lear
 <img width="4176" alt="BenchMark Real Time Gym App (2)" src="https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/2871ae78-06b0-4a71-9494-01514c7adbf7">
 
 ## Structure
+The navigation diagram illustrates the interaction between different views of the application, outlining the steps a user needs to follow to reach their desired screen.
 
 ![Structure - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/5e540b97-bbea-4c55-99e6-c9dc798c875e)
 
