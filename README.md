@@ -2,13 +2,14 @@
 User experience design process for RealTimeGym App - An app for real-time exercise guidance.
 
 ## Index
-- Introduction
-- Team members
-- Strategy
-- Scope
-- Structure
-- Skeleton
-- Surface
+- [Introduction](#introduction)
+- [Team members](#team-members)
+- [Strategy](#strategy)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+- [Surface](#surface)
+
 
 ## Introduction
 At the moment, people want to improve their physical condition, but many of them don't know where to start. As a solution to this problem, a mobile exercise app will be developed, with the unique feature of real-time workouts. This provides users with guidance for performing exercises and even creating custom routines based on their goals. In this stage of the project, we will provide the user interface aspects and its elements: the strategy, scope, structure, skeleton, and surface.
@@ -45,7 +46,7 @@ To create a Real Time Gym application that effectively fulfills user expectation
 
 Through an in-depth study of competing gym and fitness applications, we can learn from their past mistakes and ensure we don't repeat them in our Real Time Gym app. Simultaneously, we can identify successful features and functionalities that we can adopt and implement in our solution, elevating the overall user experience.
 
-![Uploading BenchMark Real Time Gym App (2).png…]()
+<img width="4176" alt="BenchMark Real Time Gym App (2)" src="https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/2871ae78-06b0-4a71-9494-01514c7adbf7">
 
 ## Structure
 
