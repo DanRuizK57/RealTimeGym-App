@@ -56,7 +56,7 @@ Through an in-depth study of competing gym and fitness applications, we can lear
 
 Wireframes
 
-Full document here[RealTimeGym_App.pdf](https://github.com/DanRuizK57/RealTimeGym-App/files/13302801/RealTimeGym_App.pdf)
+Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13302801/RealTimeGym_App.pdf)
 
 
 ## Surface
