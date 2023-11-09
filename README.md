@@ -50,7 +50,7 @@ Through an in-depth study of competing gym and fitness applications, we can lear
 
 ## Structure
 
-![Structure - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/6c2fb277-4a35-4e6a-8734-06a1e058fb06)
+![Structure - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/5e540b97-bbea-4c55-99e6-c9dc798c875e)
 
 ## Skeleton
 
