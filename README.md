@@ -32,11 +32,11 @@ This analytical process has assisted us in comprehending how our application ali
 
 After defining a product strategy, it is essential to establish a scope. At this stage, we create a profile of our ideal customer and visualize how our product will work for them in the context of our application.
 
-![Ux Person 1 - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/d0c4669c-df53-468d-a194-f2693f842ce2)
+![UX Persona 1 - Juan Rojas](https://github.com/DanRuizK57/RealTimeGym-App/assets/89611115/97c0a27e-2add-4542-8040-7c1b527f2d6a)
 
-![Ux Person 2 - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/83375852-4c3f-4eca-8c08-0c9adb40230f)
+![UX Persona 2 - Sofia Reyes](https://github.com/DanRuizK57/RealTimeGym-App/assets/89611115/97ae78f5-420e-4925-8980-29b82796da1b)
 
-![Ux Person 3 - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/74418c37-8184-400f-8c83-bfef3c662a4f)
+![UX Persona 3 - Alexis Ramirez](https://github.com/DanRuizK57/RealTimeGym-App/assets/89611115/662feb4b-04c6-450e-a5ac-5bca4ffc1bb4)
 
 In the context of our Real Time Gym project, based on the UX Personas we've established, we develop the customer journey map as a representation of the anticipated interactions and experiences that users will go through while using our application. This map provides valuable insights into the user's path and helps us better understand their journey within the app.
 
