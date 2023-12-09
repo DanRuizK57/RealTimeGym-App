@@ -12,7 +12,13 @@ User experience design process for RealTimeGym App - An app for real-time exerci
 
 
 ## Introduction
-At the moment, people want to improve their physical condition, but many of them don't know where to start. As a solution to this problem, a mobile exercise app will be developed, with the unique feature of real-time workouts. This provides users with guidance for performing exercises and even creating custom routines based on their goals. In this stage of the project, we will provide the user interface aspects and its elements: the strategy, scope, structure, skeleton, and surface.
+Nowadays, more and more people want to improve their physical fitness, but they are often faced with the uncertainty of where to start. To address this challenge, we are excited to introduce an innovative real-time fitness mobile app called “RealTimeGym” that will not only guide you through your workouts but also allow you to share with friends and surpass your own personal goals.
+
+Our app goes beyond offering simple exercise routines; We are committed to personalization and constant motivation. Through the real-time workout function, you can follow your routine progress, making the way you exercise  sensational and unique.
+
+Additionally, the app will provide personalized routines based on your individual characteristics and personal goals. Whether you're looking to lose weight, gain strength, or improve your endurance, our app will adapt to your specific needs.
+
+At this stage of the project, we focus on the user interface and its key elements: strategy, scope, structure, skeleton and surface. We are committed to offering an enriching exercise experience that not only guides you towards your goals, but also motivates you to exceed them day after day.
 
 ## Team members
 - Gustavo Díaz - Project manager
