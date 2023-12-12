@@ -61,7 +61,9 @@ Through an in-depth study of competing gym and fitness applications, we can lear
 ## Structure
 The navigation diagram illustrates the interaction between different views of the application, outlining the steps a user needs to follow to reach their desired screen.
 
-![Structure - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/5e540b97-bbea-4c55-99e6-c9dc798c875e)
+The navigation diagram was been updated with the new features (add friends and accessibility).
+
+![Navigation Diagram (Updated)](https://github.com/DanRuizK57/RealTimeGym-App/assets/89611115/fb447f95-752c-48af-916a-c075b6b55cae)
 
 ## Skeleton
 
