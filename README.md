@@ -47,6 +47,7 @@ After defining a product strategy, it is essential to establish a scope. At this
 ![UX Persona 3 - Alexis Ramirez](https://github.com/DanRuizK57/RealTimeGym-App/assets/89611115/662feb4b-04c6-450e-a5ac-5bca4ffc1bb4)
 
 In the context of our Real Time Gym project, based on the UX Personas we've established, we develop the customer journey map as a representation of the anticipated interactions and experiences that users will go through while using our application. This map provides valuable insights into the user's path and helps us better understand their journey within the app.
+
 Based on the feedback form the class assitant we removed the brands section from the UX Personas
 
 ![CJM - Real Time Gym App](https://github.com/DanRuizK57/RealTimeGym-App/assets/104214875/c455e20b-ba7f-45ef-ae8e-481e8f9be755)
