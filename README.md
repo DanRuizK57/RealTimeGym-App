@@ -67,7 +67,7 @@ The navigation diagram illustrates the interaction between different views of th
 
 Wireframes
 
-Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13303002/RealTimeGym_App_2.pdf)
+Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13654155/RealTimeGym.App.pdf)
 
 Link Figma [here](https://www.figma.com/file/huAZZERjcUDO8lxZrzhJ8b/RealTimeGym-App?type=design&node-id=0-1&mode=design&t=7wxsVlNRaFkPtK9L-0)
 
@@ -75,7 +75,7 @@ Link Figma [here](https://www.figma.com/file/huAZZERjcUDO8lxZrzhJ8b/RealTimeGym-
 
 Mockups
 
-Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13303032/RealTimeGym.App_compressed.pdf)
+Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13654162/RealTimeGym.App.Mockups.pdf)
 
 Link Figma [here](https://www.figma.com/file/huAZZERjcUDO8lxZrzhJ8b/RealTimeGym-App?type=design&node-id=12%3A2&mode=design&t=7wxsVlNRaFkPtK9L-1)
 
