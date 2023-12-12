@@ -9,6 +9,7 @@ User experience design process for RealTimeGym App - An app for real-time exerci
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
+- [Usability and Accessibility](#usability-and-accessibility)
 
 
 ## Introduction
@@ -74,3 +75,18 @@ Mockups
 Full document [here](https://github.com/DanRuizK57/RealTimeGym-App/files/13303032/RealTimeGym.App_compressed.pdf)
 
 Link Figma [here](https://www.figma.com/file/huAZZERjcUDO8lxZrzhJ8b/RealTimeGym-App?type=design&node-id=12%3A2&mode=design&t=7wxsVlNRaFkPtK9L-1)
+
+## Usability and Accessibility 
+
+### Usability 
+
+### Accessibility 
+
+RealTimeGym App is committed to providing an inclusive and accessible fitness experience for a lot of users, regardless of their abilities or disabilities. Our app incorporates a variety of features and design principles to ensure that everyone can navigate, use, and benefit from the application seamlessly. Here's an overview of the accessibility features implemented in RealTimeGym:
+
+- More options in sex selection.
+- Enlarge text.
+- Change the theme to grayscale.
+- Text to voice.
+- Add subtitles to videos.
+- Visual alerts.
