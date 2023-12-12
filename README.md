@@ -81,6 +81,20 @@ Link Figma [here](https://www.figma.com/file/huAZZERjcUDO8lxZrzhJ8b/RealTimeGym-
 
 ## Usability 
 
+A heuristic evaluation was conducted to inspect the usability of the RealTimeGym App.
+
+The heuristic evaluation involves examining the usability of the interfaces by multiple evaluators (belonging to another similar application in the same domain), based on the fulfillment of recognized usability principles: the heuristics.
+
+From this evaluation, some issues were identified and addressed to enhance the application. The solutions to these problems include:
+
+- Adding a progress bar in the registration.
+- Providing more options in the gender selection view.
+- Highlighting the user in the progress view.
+- Adding experience points to the progress.
+- Specifying the purpose of each timer when performing exercises.
+- Placing pause and resume buttons in the real-time exercise view.
+- Standardizing the style of all inputs.
+
 ## Accessibility 
 
 RealTimeGym App is committed to providing an inclusive and accessible fitness experience for a lot of users, regardless of their abilities or disabilities. Our app incorporates a variety of features and design principles to ensure that everyone can navigate, use, and benefit from the application seamlessly. Here's an overview of the accessibility features implemented in RealTimeGym App:
